@@ -3,7 +3,7 @@ layout: product
 id: '3'
 price: '150.00'
 title: Waachhund Schild outdoor
-description: 'Nulla non pretium metus, vitae finibus lectus.'
+description: Vorsicht vor dem Waachhund outdoor
 default_thumbnail_image: images/plant3.jpg
 default_original_image: images/plant3-lg.jpg
 featured: true
