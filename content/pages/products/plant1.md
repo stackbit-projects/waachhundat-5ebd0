@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '1'
-price: '49.40'
+price: '15.40'
 title: Waachhund Türschild
 description: Das perfekte Schild für deine Tür.
 default_thumbnail_image: images/plant1.jpg
