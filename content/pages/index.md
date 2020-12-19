@@ -7,10 +7,10 @@ sections:
     section_id: hero_section
     background_image: images/header.jpg
     content: >-
-      # Real, beautiful plants right to your door
+      # Vorsicht vor dem Waachhund
 
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+      Dieser kann weitaus gefährlicher und lebensbeeiflussender sein, als ein
+      richtiger Hund. ;) 
     actions:
       - title: See all items
         url: /store
