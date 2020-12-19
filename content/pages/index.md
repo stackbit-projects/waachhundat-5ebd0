@@ -12,7 +12,7 @@ sections:
       Dieser kann weitaus gefährlicher und lebensbeeiflussender sein, als ein
       richtiger Hund. ;) 
     actions:
-      - title: See all items
+      - title: Zeige mir den Waachhund
         url: /store
         arrow: true
   - type: featured_products_section
