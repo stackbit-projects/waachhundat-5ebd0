@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '3'
-price: '150.00'
+price: '18.90'
 title: Waachhund Schild outdoor
 description: Vorsicht vor dem Waachhund outdoor
 default_thumbnail_image: images/plant3.jpg
