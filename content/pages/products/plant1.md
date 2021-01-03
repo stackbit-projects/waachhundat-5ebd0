@@ -2,7 +2,7 @@
 layout: product
 id: '1'
 price: '14.90'
-title: S
+title: 'Waachhund #1 - Schild Indoor'
 description: Das perfekte Schild für deine Tür.
 default_thumbnail_image: images/plant1.jpg
 default_original_image: images/plant1-lg.jpg
